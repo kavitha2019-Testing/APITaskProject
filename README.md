@@ -9,7 +9,7 @@
  
 ## Header data for UPDATE
 - Content-Type: application/json; charset=UTF-8
- - UserId :1
- - Title : Foo1
- - Body : Bar1;
- - Id  : 101 ;
+ - userId :1
+ - title : Foo1
+ - body : Bar1
+ - id  : 101 
